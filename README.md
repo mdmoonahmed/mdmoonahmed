@@ -39,9 +39,8 @@ I enjoy learning new technologies and solving real-world problems through code.
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username  
-- 🐙 GitHub: https://github.com/mdmoonahmed  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 💼 LinkedIn: https://linkedin.com/in/moon-ahmed10 
+- 🐙 GitHub: https://github.com/mdmoonahmed    
 
 ---
 
