@@ -1,12 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Moon%20Ahmed&fontSize=45&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descAlignY=65)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Moon%20Ahmed&fontSize=45&fontColor=ffffff&desc=MERN-Stack%20Web%20Developer&descAlignY=65)
 
 <h1 align="center">Moon Ahmed</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">MERN-Stack Web Developer</h3>
 
 ---
 
 ## 👋 About Me
-I am a Full-Stack Web Developer passionate about building modern, scalable web applications.  
+I am a MERN-Stack Web Developer passionate about building modern, scalable web applications.  
 I specialize in React, Next.js, and Node.js with a strong focus on clean UI and efficient backend logic.  
 I enjoy learning new technologies and solving real-world problems through code.
 
